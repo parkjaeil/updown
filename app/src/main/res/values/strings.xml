@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">updown</string>
+    <string name="text_loading">loading....</string>
+    <string name="button_check">CHECK</string>
+    <string name="text_guess">Guess the number!</string>
+    <string name="text_congrates">Congratulation! You guessed in </string>
+    <string name="text_tries">tries</string>
+</resources>
